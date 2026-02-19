@@ -50,7 +50,7 @@ export default function Hero() {
           style={{ animationDelay: "0.18s" }}
         >
           <a
-            href="#how-it-works"
+            href="https://github.com/edgemindai/heynex-website/releases/download/v2026.2.1/AlphaX-2026.2.1.dmg"
             className="flex h-12 items-center justify-center gap-2 rounded-[var(--radius-md)] bg-[var(--black)] px-6 text-[14px] font-medium text-white transition-all duration-200 hover:bg-[var(--gray-900)] hover:shadow-md sm:h-[42px] sm:rounded-[var(--radius-sm)]"
             style={{ transitionTimingFunction: "var(--ease)" }}
           >

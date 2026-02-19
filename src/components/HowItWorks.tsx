@@ -4,7 +4,7 @@ import RevealOnScroll from "./RevealOnScroll";
 
 const GITHUB_RELEASES_URL =
   "https://github.com/Deep-Alpha-X/alphax-desktop-app/releases";
-const DMG_URL = "";
+const DMG_URL = "https://github.com/edgemindai/heynex-website/releases/download/v2026.2.1/AlphaX-2026.2.1.dmg";
 const TESTFLIGHT_URL = "";
 const QR_API =
   "https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=";
