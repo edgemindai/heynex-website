@@ -26,9 +26,10 @@ export default function Nav() {
           <Image
             src="/assets/logo-horizontal-tm.png"
             alt="HeyNex"
-            width={1013}
-            height={263}
+            width={1021}
+            height={271}
             className="h-[28px] w-auto sm:h-[30px]"
+            unoptimized
             priority
           />
         </a>
